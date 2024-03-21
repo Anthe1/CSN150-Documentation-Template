@@ -46,8 +46,8 @@ Set the baud rate to 115200.
 Press the reset (RST) button on the ESP32 board.
 Observe the Serial Monitor for successful network connection and message sending confirmation.
 
+## ScreenShots of completed project
 
-## Problems
-Note your problems or errors here.  
+![ESP32 1](https://github.com/Anthe1/CSN150-Documentation-Template/assets/134184529/5578d888-be77-457a-b960-e40b8b03063a)
 
 
